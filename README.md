@@ -4,47 +4,20 @@ SQL Projects Source Code
 
 This repository contains source code for all SQL projects. The SQL queries are written for PostreSQL database.
 
-Library Management
-View Source Code for Library Management
+1. Library Management
 
-Download Source Code for Library Management
+2. Student Database Management
 
-Student Database Management
-View Source Code for Student Database Management
+3. Online Retail Application Database
 
-Download Source Code for Student Database Management
+4. Online Inventory Control Management
 
-Online Retail Application Database
-View Source Code for Online Retail Application Database
+5. Railway System Database
 
-Download Source Code for Online Retail Application Database
+6. Cooking Recipe Database
 
-Online Inventory Control Management
-View Source Code for Online Inventory Control Management
+7. Hospital Management System
 
-Download Source Code for Online Inventory Control Management
+8. Billing System for a Departmental Store
 
-Railway System Database
-View Source Code for Railway System Database
-
-Download Source Code for Railway System Database
-
-Cooking Recipe Database
-View Source Code for Cooking Recipe Database
-
-Download Source Code for Cooking Recipe Database
-
-Hospital Management System
-View Source Code for Hospital Management System
-
-Download Source Code for Hospital Management System
-
-Billing System for a Departmental Store
-View Source Code for Billing System for a Departmental Store
-
-Download Source Code for Billing System for a Departmental Store
-
-Bus Booking System Mini Project
-View Source Code for Bus Booking System Mini Project
-
-Download Source Code for Bus Booking System Mini Project
+9. Bus Booking System Mini Project
